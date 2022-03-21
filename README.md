@@ -6,25 +6,23 @@
 
 [Bēhance](https://www.behance.net/gallery/139767203/Pum-Peleas-de-almohadas-para-ser-feliz-%29) | [Instagram](https://www.instagram.com/pumpeleasdealmohadas/) | [Sitio web](https://sofiacastaneda.github.io/pipeta/galeria.html) | [Repositorio](https://github.com/sofiacastaneda/pum)
 
-Pipeta es una asistente creativa. Fue creada para ser un instrumento alternativo que permitiera a sus usuarios realizar composiciones abstractas (gráficas y auditivas), por medio de gestos. 
+Pum! es un set de almohadas interactivas, las cuales buscan que te diviertas jugando a las peleas de almohadas como nunca antes. ¡Libera todo tu estrés y transfórmalo en diversión! :-)
+Pum! es tu compañera de batalla: gracias a sus sensores, te indicará quién ha dado los mejores golpes, y acompañará con brillo cada uno de los impactos según su fuerza, cantidad y frecuencia.
 
 ## Instrucciones
-Sigue estos cuatro pasos:
+Sigue estos tres simples pasos:
+1. Agita a Pum para encenderla
+2. Encuentra a un contrincante
+3. ¡A pelear!
 
-* Conecta a Pipeta a tu computadora.
-* Entra a la [página web de Pipeta](https://sofiacastaneda.github.io/pipeta/). Elige si quieres crear en *Modo Pintura* o en *Modo Partitura*. 
-* Ponte los guantes, sin ellos, ¡Pipeta no podrá entender qué quieres hacer!
-* ¡Comienza a crear! Pipeta se activa al tacto, así que ensaya distintas combinaciones y ritmos colocando tus dedos en el instrumento. 
-
-* ¿Dudas? [Mira este video](https://youtu.be/SyCooKJdv_s).
-
-## Publicar tus creaciones
-
-Para añadir tus creaciones a la galería, carga tus imágenes en [esta carpeta](https://github.com/sofiacastaneda/pipeta/tree/gh-pages/images). Espera unos minutos y podrás ver todas tus composiciones [aquí](https://sofiacastaneda.github.io/pipeta/galeria.html).
-
-También puedes publicar tus imágenes en Twitter enviando un mail a trigger@applet.ifttt.com. Nombra tu obra en el asunto del correo, y adjunta tu imagen. Espera unos segundos y verás tus imágenes en [@pipetapipas](https://twitter.com/pipetapipas). Estas imágenes quedan archivadas también en [esta carpeta](https://drive.google.com/drive/folders/1fVWIslnsXeJRCjsI-1HoeAb4W5uzg82G?usp=sharing). *Nota: si añades imágenes a esta carpeta, se pubicarán en Twitter también.
 
 ## Para probar en casa
 Software necesario 
 * [Arduino IDE](https://www.arduino.cc/en/software) 
 --> Sigue [este diagrama](https://www.tinkercad.com/things/aVEQP4N5pFo) para armar tu setup, carga [el código] a tu arduino y sigue las instrucciones mencionadas antes. 
+
+Materiales
+* 1 batería de 12 voltios, cables caimán, adaptador DC (de la batería al arduino), jumpers de 30cm, un acelerómetro, un sensor de golpe, tres anillos RGB ws1228b.
+* Una almohada (con funda).
+* MUCHÍSIMO relleno para que la almohada sea esponjosa y no te hagas daño.
+* Una capa de papel burbuja para envolver los componentes.
