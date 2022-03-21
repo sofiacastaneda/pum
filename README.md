@@ -20,10 +20,14 @@ Sigue estos tres simples pasos:
 ![Circuito](https://github.com/sofiacastaneda/pum/blob/main/ensamble_circuito/PUM_diagrama.png)
 ### Software necesario 
 * [Arduino IDE](https://www.arduino.cc/en/software) 
---> Sigue [el diagrama](https://github.com/sofiacastaneda/pum/blob/main/ensamble_circuito/PUM_diagrama.png) para armar tu setup, carga [el código] a tu arduino y sigue las instrucciones mencionadas antes. 
+--> Sigue [el diagrama](https://github.com/sofiacastaneda/pum/blob/main/ensamble_circuito/PUM_diagrama.png) para armar tu setup, carga [el código]** a tu arduino y sigue las instrucciones mencionadas antes. 
 
 ### Materiales
 * Arduino UNO, 1 batería seca de 12 voltios, cables caimán, adaptador DC (de la batería al arduino), jumpers de 30cm, un acelerómetro MPU6050, un sensor de golpe KY-031, tres anillos led RGB ws2812b, tres resistencias de 470Ω, breadboard* (aconsejamos soldar todo para que resista los impactos).
 * Una almohada (con funda).
 * MUCHÍSIMO relleno para que la almohada sea esponjosa y no te hagas daño.
 * Una capa de papel burbuja para envolver los componentes.
+
+____
+**
+en revisión, lo cargaremos pronto.
