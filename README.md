@@ -16,11 +16,11 @@ Sigue estos tres simples pasos:
 3. ¡A pelear!
 
 ## Para probar en casa
-# Software necesario 
+### Software necesario 
 * [Arduino IDE](https://www.arduino.cc/en/software) 
 --> Sigue [este diagrama](https://www.tinkercad.com/things/aVEQP4N5pFo) para armar tu setup, carga [el código] a tu arduino y sigue las instrucciones mencionadas antes. 
 
-# Materiales
+### Materiales
 * 1 batería de 12 voltios, cables caimán, adaptador DC (de la batería al arduino), jumpers de 30cm, un acelerómetro, un sensor de golpe, tres anillos RGB ws1228b.
 * Una almohada (con funda).
 * MUCHÍSIMO relleno para que la almohada sea esponjosa y no te hagas daño.
