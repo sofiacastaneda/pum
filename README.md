@@ -1,6 +1,6 @@
 # Pum!™ Peleas de almohadas para ser feliz. 
 
-(„• ᴗ •„) 
+(o˘◡˘o) 
 
 ![Mock](https://github.com/sofiacastaneda/pipeta/blob/gh-pages/contents/diagramass-04.png?raw=true)
 
