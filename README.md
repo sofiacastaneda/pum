@@ -2,7 +2,7 @@
 
 (o˘◡˘o) 
 
-![Mock](https://github.com/sofiacastaneda/pipeta/blob/gh-pages/contents/diagramass-04.png?raw=true)
+![Mock](https://github.com/sofiacastaneda/pum/blob/main/Imagenes/banner-1.png)
 
 [Bēhance](https://www.behance.net/gallery/109303133/Pipeta-Asistente-de-experimentos-visuales-y-sonoros) | [Instagram](https://editor.p5js.org/sofiasofia/full/buOC_qbWx) | [Sitio web](https://sofiacastaneda.github.io/pipeta/galeria.html) | [Repositorio](https://github.com/sofiacastaneda/pipeta)
 
