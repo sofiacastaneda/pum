@@ -11,9 +11,10 @@ Pum! es tu compañera de batalla: gracias a sus sensores, te indicará quién ha
 
 ## Instrucciones
 Sigue estos tres simples pasos:
-1. Agita a Pum para encenderla
-2. Encuentra a un contrincante
-3. ¡A pelear!
+1. Conecta la batería al arduino
+2. Agita a Pum para encenderla
+3. Encuentra a un contrincante
+4. ¡A pelear!
 
 ## Para probar en casa
 ### Software necesario 
