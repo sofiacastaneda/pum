@@ -17,6 +17,7 @@ Sigue estos tres simples pasos:
 4. ¡A pelear!
 
 ## Para probar en casa
+![Circuito](https://github.com/sofiacastaneda/pum/blob/main/PUM_diagrama.png)
 ### Software necesario 
 * [Arduino IDE](https://www.arduino.cc/en/software) 
 --> Sigue [este diagrama](https://github.com/sofiacastaneda/pum/blob/main/PUM_diagrama.png) para armar tu setup, carga [el código] a tu arduino y sigue las instrucciones mencionadas antes. 
