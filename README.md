@@ -16,7 +16,7 @@ Sigue estos tres simples pasos:
 3. Encuentra a un contrincante
 4. ¡A pelear!
 
-## Para probar en casa
+## Para probar en casa: arma tu propia Pum!
 ![Circuito](https://github.com/sofiacastaneda/pum/blob/main/ensamble_circuito/PUM_diagrama.png)
 ### Software necesario 
 * [Arduino IDE](https://www.arduino.cc/en/software) 
