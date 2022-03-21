@@ -19,10 +19,10 @@ Sigue estos tres simples pasos:
 ## Para probar en casa
 ### Software necesario 
 * [Arduino IDE](https://www.arduino.cc/en/software) 
---> Sigue [este diagrama](https://www.tinkercad.com/things/aVEQP4N5pFo) para armar tu setup, carga [el código] a tu arduino y sigue las instrucciones mencionadas antes. 
+--> Sigue [este diagrama](https://github.com/sofiacastaneda/pum/blob/main/PUM_diagrama.png) para armar tu setup, carga [el código] a tu arduino y sigue las instrucciones mencionadas antes. 
 
 ### Materiales
-* 1 batería de 12 voltios, cables caimán, adaptador DC (de la batería al arduino), jumpers de 30cm, un acelerómetro, un sensor de golpe, tres anillos led RGB ws2812b, tres resistencias de 470Ω, breadboard* (aconsejamos soldar todo para que resista los impactos).
+* Arduino UNO, 1 batería seca de 12 voltios, cables caimán, adaptador DC (de la batería al arduino), jumpers de 30cm, un acelerómetro MPU6050, un sensor de golpe KY-031, tres anillos led RGB ws2812b, tres resistencias de 470Ω, breadboard* (aconsejamos soldar todo para que resista los impactos).
 * Una almohada (con funda).
 * MUCHÍSIMO relleno para que la almohada sea esponjosa y no te hagas daño.
 * Una capa de papel burbuja para envolver los componentes.
