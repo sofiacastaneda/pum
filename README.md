@@ -4,7 +4,7 @@
 
 ![Mock](https://github.com/sofiacastaneda/pum/blob/main/Imagenes/banner-1.png)
 
-[Bēhance](https://www.behance.net/gallery/139767203/Pum-Peleas-de-almohadas-para-ser-feliz-%29) | [Instagram](https://www.instagram.com/pumpeleasdealmohadas/) | [Sitio web](https://sofiacastaneda.github.io/pipeta/galeria.html) | [Repositorio](https://github.com/sofiacastaneda/pipeta)
+[Bēhance](https://www.behance.net/gallery/139767203/Pum-Peleas-de-almohadas-para-ser-feliz-%29) | [Instagram](https://www.instagram.com/pumpeleasdealmohadas/) | [Sitio web](https://sofiacastaneda.github.io/pipeta/galeria.html) | [Repositorio](https://github.com/sofiacastaneda/pum)
 
 Pipeta es una asistente creativa. Fue creada para ser un instrumento alternativo que permitiera a sus usuarios realizar composiciones abstractas (gráficas y auditivas), por medio de gestos. 
 
