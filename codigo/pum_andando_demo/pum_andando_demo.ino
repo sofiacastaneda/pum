@@ -1,12 +1,14 @@
-int sensorPin = 2; // define sensor pin
-int threshold = 350; // set threshold value
+int sensorPin = A0; // define sensor pin
+int threshold = 800; // set threshold value
+
 
 void setup() {
   Serial.begin(9600); // initialize serial communication
+
 }
 
 void loop() {
-  int sensorValue = analogRead(sensorPin); // read sensor value
+int sensorValue = analogRead(sensorPin); // read sensor value
   Serial.print("Sensor value: ");
   Serial.println(sensorValue);
 
